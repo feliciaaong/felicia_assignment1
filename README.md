@@ -13,7 +13,7 @@ It is also able to register an member to borrow books.
 Import the Module to Use the Function
 ````javascript
 const book = require('./felicia_BookManagement.js');
-```
+
 **Add Book**: This Function Allows Librarian to Add New Book to the Library 
 ````book.addBook(bookTitle,bookAuthor,bookgenre,bookisbn,status)````
 
@@ -35,8 +35,6 @@ const book = require('./felicia_BookManagement.js');
 **Borrowed Book History** : This Function Lets Librarian Checks Memebers Borrowed Boooks History
 ````book.BorrowedbookHistory(memberid,bookisbn)````
 
-```
-````
 
 ## References
 (https://www.w3schools.com/nodejs/nodejs_modules.asp)
