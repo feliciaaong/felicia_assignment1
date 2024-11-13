@@ -7,7 +7,7 @@ console.log(JSON.stringify(book.getBook(0),null,2));
 console.log(JSON.stringify(book.getBook(1),null,2));
 //Update Book isbn
 book.updateBook('Summerhaven',{isbn:6767});
-//Getting the updated book froem the book array
+//Getting the updated book from the book array
 console.log(JSON.stringify(book.getBook(1),null,2));
 //Registering a new member
 book.RegisterMember('Alice',123,1234567890);
@@ -17,3 +17,4 @@ book.borrowedBooks(123,8787);
 book.ReturnBook(123,8787);
 //History of book that memebers has borrowed
 book.BorrowedbookHistory(123);
+
