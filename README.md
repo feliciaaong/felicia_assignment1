@@ -10,7 +10,7 @@ It is also able to register an member to borrow books.
 4. Edit the Code in App.js to Your Liking 
 
 ## Functions  
-Import the Module to Use the Function
+Must Import the Module to Use the Function
 ```Javascript
 const book = require('./felicia_BookManagement.js');
 
