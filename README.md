@@ -26,13 +26,13 @@ book.BorrowedbookHistory(memberid,bookisbn)
 
 ## Features
 
-**Add Book**: This Function Allows Librarian to Add New Book to the Library 
-**Get Books**: Allows Librarian to Check the Books that in is the Library and status of Books
-**Update Book**: Allow Librarian to Update Book isbn
-**Register Member** : This Function Register Member
-**Borrow Book** : This Function Lets Members Borrow Books
-**Return Book** : This Function Lets Members Return Books
-**Borrowed Book History** : This Function Lets Librarian Checks Memebers Borrowed Boooks History
+**Add Book**: This Function Allows Librarian to Add New Book to the Library <br>
+**Get Books**: Allows Librarian to Check the Books that in is the Library and status of Books <br>
+**Update Book**: Allow Librarian to Update Book isbn <br>
+**Register Member** : This Function Register Member<br>
+**Borrow Book** : This Function Lets Members Borrow Books<br>
+**Return Book** : This Function Lets Members Return Books<br>
+**Borrowed Book History** : This Function Lets Librarian Checks Memebers Borrowed Books History<br>
 
 
 ## References
